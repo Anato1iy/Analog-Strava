@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_profile" type="id"/>
+    <item name="nav_activity" type="id" />
+    <item name="nav_base" type="id" />
+    <item name="nav_auth" type="id" />
+</resources>

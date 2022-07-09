@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="bottomEnterStrava">
+        <item name="android:backgroundTint">@color/colorGrayLight</item>
+        <item name="android:drawableLeft">@drawable/rectangle_</item>
+    </style>
+
+    <style name="dividerColor">
+        <item name="android:backgroundTint">@color/colorGray</item>
+    </style>
+
+    <style name="ascent">
+        <item name="android:background">@drawable/image_onboarding</item>
+    </style>
+
+    <style name="textColor">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

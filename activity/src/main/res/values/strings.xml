@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_activities">Error: Ascent could not load feed.</string>
+    <string name="use_cache">Loaded feed from cache</string>
+    <string name="retry"><u>Retry.</u></string>
+    <string name="activities">Activities</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="distance">Distance</string>
+    <string name="create_a_new_activity">Create a new activity</string>
+    <string name="add">Add</string>
+    <string name="elevation_gain">Elevation Gain</string>
+    <string name="the_best_app">The best app for cyclists and runners!</string>
+    <string name="run">Run</string>
+    <string name="ride">Ride</string>
+    <string name="swim">Swim</string>
+    <string name="type">Type</string>
+</resources>

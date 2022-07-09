@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_a_member">Already a member</string>
+    <string name="auth_login">Продолжить с Strava</string>
+    <string name="onboarding_1_welcome">Добро пожаловать в Ascent</string>
+    <string name="onboarding_1_here">Здесь вы можете следить за своим весом и активностью</string>
+    <string name="onboarding_2_friends">Друзья</string>
+    <string name="onboarding_2_fill">Заполните поля активности и веса, а затем поделитесь
+        информацией со своими друзьями</string>
+    <string name="onboarding_3_activities">Активности</string>
+    <string name="onboarding_3_convenient">Удобная система отслеживания веса и активности,
+        создайте свой профиль и начните жить ярко</string>
+    <string name="skip">Пропустить</string>
+    <string name="auth_canceled">Аутентификация не выполнена</string>
+</resources>

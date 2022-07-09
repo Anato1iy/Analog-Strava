@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_a_member">Already a member</string>
+    <string name="auth_login">Continue with Strava</string>
+    <string name="onboarding_1_welcome">Welcome to Ascent</string>
+    <string name="onboarding_1_here">Here you can monitor your weight and activities</string>
+    <string name="onboarding_2_friends">Friends</string>
+    <string name="onboarding_2_fill">Fill in the activity and weight fields and then share
+        the information with your friends</string>
+    <string name="onboarding_3_activities">Activities</string>
+    <string name="onboarding_3_convenient">Convenient weight and activity tracking system-fill out
+     your profile and start living brightly</string>
+    <string name="skip">Skip</string>
+    <string name="auth_canceled">Authentication failed</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="myCheckBox" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/colorGray</item>
+    </style>
+
+    <style name="layoutStyle">
+        <item name="android:background">@color/white</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+
+    <style name="weightViewStyle">
+        <item name="android:background">@drawable/custom_layout_shape</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_activities">Ошибка: Ascent не удалось загрузить.</string>
+    <string name="use_cache">Загрузка из кэша</string>
+    <string name="retry"><u>Повторить.</u></string>
+    <string name="activities">Активности</string>
+    <string name="descriptions">Описание</string>
+    <string name="time">Время</string>
+    <string name="date">Дата</string>
+    <string name="name">Имя</string>
+    <string name="distance">Дистанция</string>
+    <string name="create_a_new_activity">Создать активность</string>
+    <string name="add">Добавить</string>
+    <string name="elevation_gain">Перепад высоты</string>
+    <string name="the_best_app">Лучшее приложение для велосипедистов и бегунов!</string>
+    <string name="run">Бег</string>
+    <string name="ride">Езда</string>
+    <string name="swim">Плавание</string>
+    <string name="type">Тип</string>
+</resources>

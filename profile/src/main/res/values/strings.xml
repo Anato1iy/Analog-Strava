@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="gender">Gender</string>
+    <string name="country">Country</string>
+    <string name="weight_edit">Weight (edit)</string>
+    <string name="kg">Kg</string>
+    <string name="not_select_weight">Not select weight</string>
+    <string name="select_your_weight">Select your weight</string>
+    <string name="share_ves">Share</string>
+    <string name="are_you_sure">Are you sure you want to logout? All local data will be detected.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error_share">Error: Ascent does not have access to your contacts.</string>
+    <string name="profile">Profile</string>
+    <string name="i_have_strava">I have Strava</string>
+    <string name="allow_ascent">Allow Ascent to use your contacts</string>
+    <string name="allow">Allow</string>
+    <string name="no_activities">You haven\'t had any activities for a long time</string>
+</resources>
